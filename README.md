@@ -76,6 +76,11 @@ gradle:
 ```groovy
 compile 'com.rengwuxian.materialedittext:library:2.1.4'
 ```
+And Api 26+:
+
+```groovy
+ implementation 'com.rengwuxian.materialedittext:library:2.1.4'
+```
 
 Maven:
 ```xml
